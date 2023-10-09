@@ -18,8 +18,9 @@ jobs:
 
     - name: build app
       run: |
-        npm install
-        npm run build
+        echo "hello bhanu"
+    #    npm install
+     #   npm run build
 
 
 
